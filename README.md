@@ -8,7 +8,7 @@ Designed and Built with ReactJS, Tailwind CSS, and React Context.
 
 ## Screenshots and demo
 
-![image](https://github.com/MohammedAdhil/nextjs-task/assets/91864779/fad62720-a058-46f1-9bc7-b88d56a35ae3)
+![image](https://github.com/MohammedAdhil/real-estate-website/assets/91864779/49ced3ae-6ca8-44cd-955c-a4d5e2e18825)
 
 
 
